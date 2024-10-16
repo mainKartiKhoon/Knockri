@@ -1,0 +1,33 @@
+.logoInSectionTwo{
+    color: #1967d2;
+}
+
+.card:hover{
+    background-color: #1967d2;
+    /* color: white; */
+    transition: all 0.3s;
+    border: none;
+    box-shadow: 0 6px 15px #404f680d;
+    
+}
+
+.card:hover h2{
+    color: white;
+    transition: all 0.3s;
+    /* font-weight: bold; */
+}
+
+.card:hover .paraInCard{
+    color: white;
+    /* font-weight: bold; */
+    transition: all 0.3s;
+}
+
+.card:hover .logoInSectionTwo{
+    color: white;
+    transition: all 0.3s;
+}
+
+.cards h2:hover{
+    cursor: pointer;
+}

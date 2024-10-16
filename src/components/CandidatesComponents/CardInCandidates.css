@@ -1,0 +1,11 @@
+.viewProfile{
+    background-color: #dce8f8;
+    color: #0146a6;
+    transition: all 0.3s ease;
+}
+
+.viewProfile:hover{
+    cursor: pointer;
+    background-color: #0146a6;
+    color: white;
+}

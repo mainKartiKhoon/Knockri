@@ -1,0 +1,133 @@
+.face {
+    color: #3b5998;
+}
+
+.facebook:hover p {
+    color: white;
+    transition-duration: 0.2s;
+
+}
+
+.facebook:hover {
+    background-color: #3b5998;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+}
+
+.facebook:hover .face {
+    color: white;
+    transition-duration: 0.2s;
+}
+
+.goog {
+    color: #dc4d28;
+}
+
+.google:hover p {
+    color: white;
+    transition-duration: 0.2s;
+}
+
+.google:hover {
+    background-color: #dc4d28;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.google:hover .goog {
+    color: white;
+    transition-duration: 0.2s;
+}
+
+.loggin {
+
+    transition-duration: 0.4s;
+}
+.register {
+
+    transition-duration: 0.4s;
+}
+
+.cross:hover {
+    cursor: pointer;
+}
+
+.crossIcon {
+    transition: 0.3s;
+}
+
+.cross {
+    transition: 0.3s;
+}
+.crossRegister:hover {
+    cursor: pointer;
+}
+
+.crossIconRegister {
+    transition: 0.3s;
+}
+
+.crossRegister {
+    transition: 0.3s;
+}
+
+input[type="checkbox"] {
+    transition: all 0.5s;
+}
+
+input[type="checkbox"]:hover {
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+
+/* .fullpage{
+    position: fixed;
+    top: 0;
+    z-index: 20;
+    display: none;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal{
+    background-color: white;
+
+} */
+
+.fullpage{
+    position: fixed;
+    top: 10px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    z-index: 45;
+}
+
+.modal{
+    background-color: white;
+    display: none;
+    z-index: 45;
+}
+
+.modalRegister{
+    display: flex;
+    background-color: white;
+    z-index: 45;
+    
+}
+
+.buttonInRegister{
+    transition: all 0.4s ease;
+}
+.candidateButton{
+    transition: all 0.4s ease;
+}
+.employerButton{
+    transition: all 0.4s ease;
+}

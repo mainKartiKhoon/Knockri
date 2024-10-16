@@ -1,0 +1,11 @@
+.bookmark:hover{
+    cursor: pointer;
+    /* background-color: rgb(240, 240, 240); */
+    border-radius: 50px;
+}
+
+.mainInCard h2:hover{
+    color: #256fd4;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}

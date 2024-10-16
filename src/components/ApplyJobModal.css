@@ -1,0 +1,36 @@
+textarea{
+    background-color: #f0f5f7;
+    resize: none;
+    transition: all 0.3s ease;
+}
+
+.fullPageApplyJob{
+    position: fixed;
+    top: 42px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.modalApplyJob{
+    background-color: white;
+}
+
+.crossIconApply{
+    background-color: #f0f5f7;
+    transition: all 0.3s ease;
+}
+
+.crossIconApply:hover{
+    background-color: #1967d2;
+    color: white;
+    cursor: pointer;
+}
+
+.applyButton{
+    color: white;
+    background-color: #1967d2;
+    transition: all 0.4s ease;
+}

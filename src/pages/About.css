@@ -1,0 +1,36 @@
+.dreams {
+    background-image: url('https://superio-reactjs.ibthemespro.com/images/background/1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 170px 0 160px;
+    text-align: center;
+}
+
+.aboutUs {
+    background-image: url('https://superio-reactjs.ibthemespro.com/images/icons/bg-4.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.searchJob{
+    background-color: white;
+    color: #206bd3;
+    transition: all 0.3s ease;
+}
+
+.searchJob:hover{
+    color: white;
+    background-color: #206bd3;
+}
+
+.applyJobAbout{
+    background-color: #f9ab00;
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.applyJobAbout:hover{
+    background-color: rgb(200, 136, 0);
+}

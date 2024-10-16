@@ -1,0 +1,11 @@
+.picture{
+    background: url('https://superio-reactjs.ibthemespro.com/images/index-11/download/1.png');
+    background-size: 670px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.buttons img:hover{
+    cursor: pointer;
+}

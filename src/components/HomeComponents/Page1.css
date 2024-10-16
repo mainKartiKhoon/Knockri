@@ -1,0 +1,27 @@
+.main {
+    background-image: url("/src/assets/HomeAssets/backgroundInHome.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+}
+
+input:focus {
+    outline: none;
+}
+
+::placeholder {
+    font-size: 14px;
+}
+
+.findJobs{
+    color: white;
+    background-color: #1967d2;
+    transition: all 0.25s ease-out;
+}
+
+.findJobs:hover{
+    color: white;
+    background-color: rgb(0, 69, 165)
+
+}

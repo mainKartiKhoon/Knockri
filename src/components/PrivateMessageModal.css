@@ -1,0 +1,34 @@
+.sendMessage {
+    color: white;
+    background-color: #1967d2;
+    transition: all 0.4s ease;
+}
+
+.sendMessage:hover {
+    background-color: #0146a6;
+}
+
+.crossInPrivate {
+    background-color: #f0f5f7;
+    transition: all 0.3s ease;
+}
+
+.crossInPrivate:hover {
+    background-color: #1967d2;
+    color: white;
+    cursor: pointer;
+}
+
+.privateMessageModal {
+    position: fixed;
+    top: 42px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.modalPrivateMessage{
+    background-color: white;
+}

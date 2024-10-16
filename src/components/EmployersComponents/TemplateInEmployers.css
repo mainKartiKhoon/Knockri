@@ -1,0 +1,40 @@
+.upperBox {
+    position: relative;
+    background-image: url('https://superio-reactjs.ibthemespro.com/images/icons/bg-4.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 80px 125px 70px;
+    background-color: white;
+}
+
+.privateBtn{
+    transition: all 0.3s ease;
+}
+
+.bookmarkInEmployers{
+    transition: all 0.3s ease;
+    background-color: #d6e3f7;
+    color: #4182d9;
+}
+
+.bookmarkInEmployers:hover{
+    background-color: #1967d2;
+    color: white;
+    cursor: pointer;
+}
+
+.singleBox{
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.singleBox:hover  img{
+    scale: 1.2;
+    transition: all 0.1s ease-in-out;
+}
+
+
+.domainBox{
+    transition: all 0.3s ease;
+}

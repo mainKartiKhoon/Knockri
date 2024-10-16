@@ -1,0 +1,19 @@
+/* .insideSecondPart > div:hover .browse{
+    width: 15px;
+    margin-right: 10px;
+    transition: all 0.27s ease-out;
+   
+} */
+
+.insideSecondPart > div:hover{
+    cursor: pointer;
+}
+
+.browse{
+    transition: all 0.2s ease-in-out;
+    margin-right: 10px;
+}
+
+.java p{
+    transition: all 0.3s ease-in-out;
+}

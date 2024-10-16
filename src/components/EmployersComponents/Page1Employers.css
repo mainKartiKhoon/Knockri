@@ -1,0 +1,10 @@
+.startRecBtn{
+    background-color: #1967d2;
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.startRecBtn:hover{
+    background-color: #0146a6;
+    cursor: pointer;
+}
